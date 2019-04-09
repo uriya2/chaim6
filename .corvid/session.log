@@ -1,0 +1,17 @@
+{"message":"server starting at [.]","level":"info","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:22.702Z"}
+{"message":"watching for file changes at [.]","level":"verbo{"message":"ATTENTION: default value of option force_s3tc_enable overridden by environment.\n",{"message":"server listening at editor port [5000], admin port [3000]","level":"info","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:22.793Z"}
+{"message":"admin connected","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:22.807Z"}
+{"message":"editor connected","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:30.103Z"}
+{"message":"site document requested","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:30.125Z"}
+{"message":"code files requested","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:31.089Z"}
+{"message":"updating local site document","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:33.791Z"}
+{"message":"updating local code files","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:33.808Z"}
+{"message":"updating local code files done","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:33.820Z"}
+{"message":"updating local site document done","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:44:33.830Z"}
+{"message":"updating local site document","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:45:18.384Z"}
+{"message":"updating local site document done","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:45:18.402Z"}
+{"message":"updating local code files","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:45:18.496Z"}
+{"message":"updating local code files done","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:45:18.496Z"}
+{"message":"server closing","level":"info","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:45:21.925Z"}
+{"message":"editor disconnected","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:45:21.928Z"}
+{"message":"admin disconnected","level":"verbose","sessionId":"9fecdfec-ad54-426d-90c5-dcf07e9162fa","timestamp":"2019-04-09T04:45:21.933Z"}
